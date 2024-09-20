@@ -1,0 +1,25 @@
+.header-name img{
+    width: 200px;
+    height: 50px;
+    
+}
+.header-nav a{
+    color: black;
+    transition: 0.5s all ease-in-out;
+}
+.logout-btn{
+    border: none;
+    background-color: transparent;
+    border:  1px solid #168EEA;
+    border-radius: 5px;
+    padding: 2px 5px;
+}
+
+
+
+
+
+
+
+
+

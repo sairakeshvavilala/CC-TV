@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+  
+}
+.service-card{
+  cursor: pointer;
+  transition: 0.5s all;
+}
+.service-card:hover{
+  background-color: #108BEA;
+  color: #fff;
+}
+
